@@ -1,0 +1,46 @@
+About the job
+What do you think of when you hear the name MNP? We are more than a prominent consulting firm in tax and accounting, we are redefining how organizations succeed in the digital age by bridging strategic vision, technical innovation, and operational execution to deliver transformative results.
+
+Make an impact as we look to strengthen our Digital Solutions practice with an Analyst Power Platform & D365. This diverse team of tech-savvy problem solvers are passionate about leveraging modern automation and low-code platforms to solve business challenges and drive operational efficiency.
+
+At MNP, you will work alongside a collaborative team of creative thinkers and problem-solvers. You will gain hands-on experience, tackle meaningful challenges, and grow your skills in an environment where your voice is valued, and your development is a priority. If you are ready to accelerate your career and make a lasting impact, this is where your journey begins.
+
+Responsibilities
+
+Collaborate with business and technical stakeholders to gather requirements and translate them into low-code solutions.
+Design, build, and maintain applications using Microsoft Power Platform (Power Apps, Power Automate).
+Support automation initiatives using Robotic Process Automation (RPA) tools.
+Contribute to the development and enhancement of Copilot Studio experiences.
+Assist in deploying and optimizing Microsoft 365 Copilot integrations.
+Document workflows, processes, and technical specifications.
+Provide support and troubleshooting for deployed solutions.
+Stay current with emerging low-code technologies and best practices.
+
+
+Skills And Experience
+
+Bachelor’s degree in Computer Science, Information Systems, or a related field.
+1–3 years of experience in business analysis, application development, or automation.
+Familiarity with Microsoft Power Platform (Power Apps, Power Automate).
+Strong analytical and problem-solving skills.
+Excellent communication and collaboration abilities.
+
+
+Nice to Have
+
+Experience with Copilot Studio and building custom copilots.
+Exposure to Robotic Process Automation (RPA) tools.
+Familiarity with Microsoft 365 Copilot and its integration capabilities.
+Experience with Azure Logic Apps.
+Knowledge of SharePoint for content management and workflows.
+Bilingual in French and English.
+Excellent communication and client-facing skills
+
+
+MY REWARDS @ MNP
+
+With a focus on high-potential earnings, MNP is proud to offer customized rewards that support our unique culture and a balanced lifestyle to thrive at work and outside of the office. You will be rewarded with generous base pay, vacation time, 4 paid personal days, a group pension plan with 4% matching, voluntary savings products, bonus programs, flexible benefits, mental health resources, exclusive access to perks and discounts, professional development assistance, MNP University, a flexible ‘Dress For Your Day’ environment, firm sponsored social events and more
+
+Diversity@MNP
+
+We embrace diversity as a core value and celebrate our differences. We believe each team member contributes unique gifts and amplifying their potential makes our business stronger. We encourage people with disabilities to apply!
