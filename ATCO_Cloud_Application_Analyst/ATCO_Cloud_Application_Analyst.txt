@@ -1,0 +1,47 @@
+Why Work Here?
+Employees at ATCO are offered endless variety. We are entrepreneurial with a large degree of autonomy and freedom, experiencing new situations and learning opportunities every day. Internal advancement is commonplace, and we are always supported in our career journey. We believe in creating a workplace where you can thrive professionally while contributing to something greater and serving our communities.
+
+About the Role:
+Join our team as a Cloud Application Analyst to play a pivotal role in bridging the gap between IT and business operations. You'll assist in overseeing the successful implementation and operations of new and existing applications, working closely with internal teams and external partners. If you're experienced in managing an extensive breadth of applications and have a proven ability to advise and guide technical teams, we'd love to hear from you.
+We’re looking for someone who cares about their work and strives for more each day - someone who challenges the status quo, embraces change, and thrives in a collaborative work environment. If you are someone who approaches work with passion, curiosity, and the courage to innovate, then this role is for you.
+
+What You Get to Do:
+•    Work with external service providers to ensure that ATCO’s Enterprise Applications are maintained and available
+•    Provide input to software vendors and system implementors as part of technical project design
+•    Ensure service providers adhere to proper ITIL management policies and procedures
+•    Translate business requirements into technical solutions
+•    Influence and execute the Software Delivery Life Cycle (SDLC) strategy
+•    Define project technical requirements, build business cases, and participate in the selection of service implementers/providers
+•    Provide technical expertise and guidance to ensure code quality meets minimum requirements
+•    Ensure solutions are aligned with industry best practices
+•    Guide interrelated application implementation and operational activities
+•    Define and enforce coding, error, and application monitoring standards  
+•    Escalate project risks and vendor concerns to IT and leadership
+•    Communicate effectively across all areas of the organization
+•    Monitor project progress and provide technical release consultation
+•    Assist the team in troubleshooting technical challenges
+•    Research, evaluate, and recommend new technologies, processes, and tools to enhance development capabilities
+
+What You Bring:
+•    Bachelor’s degree in Computer Science, Information Technology, or a related field
+•    Minimum of 5 years’ experience supporting and implementing enterprise applications
+•    Broad experience across application technology, SaaS/PaaS, Microsoft Azure, SQL Server, n-tier architecture, and data integration
+•    Strong understanding of IT architecture and ability to guide technical teams 
+•    Excellent communication skills, able to translate technical concepts for non IT audiences
+•    Strong analytical and problem-solving abilities
+•    Able to work effectively in a fast paced, team oriented environment and manage multiple priorities
+•    Availability for emergency after-hours support
+•    Cloud application experience strongly preferred
+
+What We Offer:
+•    A culture based on caring, integrity, agility, collaboration, and striving for excellence
+•    Competitive compensation
+•    Flex benefits
+•    Tuition assistance program
+•    Training and mentorship programs
+•    Charitable donation matching
+ 
+We would like to thank everyone for their application; however, only those being considered for an interview will be contacted.   
+ 
+ATCO delivers inspired solutions for a better world. We are a diversified global corporation with investments in the essential services of Structures & Logistics, Utilities, Energy Infrastructure, Retail Energy, Transportation and Commercial Real Estate. Learn more about how we build communities, energize industries and deliver customer-focused solutions like no other company in the world at www.atco.com. ATCO is proud to be an equal opportunity employer. Visit our website for more information.
+In the spirit of reconciliation, we acknowledge the traditional territories and homelands on which many of our ATCO operations and facilities are located. We honour and respect the diverse history, languages, ceremonies, and culture of the Indigenous Peoples who call these areas home.
