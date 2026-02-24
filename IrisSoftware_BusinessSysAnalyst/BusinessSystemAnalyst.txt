@@ -1,0 +1,36 @@
+Iris's Fortune 100 direct client is looking for Business System Analyst. Please find below Job description and share me your updated resume at Saurav.upadhyay@irissoftware.com .
+
+
+
+Position: Business System Analyst
+
+Location: Calgary AB
+
+
+
+Key Responsibilities:
+
+Gather, analyze, and document complex business and technical requirements for integration, modernization, and data-driven initiatives.
+Perform advanced SQL querying to support data analysis, validation, profiling, reconciliation, and root-cause investigation across multiple systems.
+Write and optimize complex SQL queries including joins, subqueries, window functions, CTEs, aggregations, and performance‑tuned scripts.
+Analyze large datasets to identify patterns, anomalies, and data quality issues; present insights to business and technology teams.
+Support ETL / API integration design by creating detailed data mapping, transformation logic, and field-level specifications using SQL-derived insights.
+Validate integration results and system behavior through SQL-based testing, including pre‑ and post‑deployment data verification.
+Work closely with data engineering and development teams to define source-to-target mappings, schema structures, and transformation rules.
+Create data flow diagrams, process maps, sequence diagrams, and system context documentation for integration and modernization projects.
+Participate in Agile ceremonies; own backlog refinement, story detailing, acceptance criteria, and functional sign-offs.
+Collaborate with QA teams to design SQL-based test cases, support functional/UAT testing, and lead defect triage activities.
+Maintain end‑to‑end traceability from requirements to data logic to test outcomes using SQL as a primary validation tool.
+Partner with architects to define modernized workflows, integration patterns, and scalable data architecture components.
+Ensure adherence to data governance, security policies, audit controls, and compliance requirements using SQL-driven checks.
+Coordinate with cross-functional teams and vendors for integration specifications, delivery alignment, and issue resolution.
+Prepare documentation such as BRDs, FRDs, mapping sheets, API specs, and operational runbooks with SQL-backed evidence.
+Support release cycles, including SQL-based validation, cutover readiness, and post‑deployment data checks.
+Identify opportunities for process automation, data optimization, and system modernization supported by SQL analytical findings.
+
+
+About Iris Software Inc.
+
+With 4,000+ associates and offices in India, U.S.A. and Canada, Iris Software delivers technology services and solutions that help clients complete fast, far-reaching digital transformations and achieve their business goals. A strategic partner to Fortune 500 and other top companies in financial services and many other industries, Iris provides a value-driven approach - a unique blend of highly-skilled specialists, software engineering expertise, cutting-edge technology, and flexible engagement models. High customer satisfaction has translated into long-standing relationships and preferred-partner status with many of our clients, who rely on our 30+ years of technical and domain expertise to future-proof their enterprises. Associates of Iris work on mission-critical applications supported by a workplace culture that has won numerous awards in the last few years, including Certified Great Place to Work in India; Top 25 GPW in IT & IT-BPM; Ambition Box Best Place to Work, #3 in IT/ITES; and Top Workplace NJ-USA.
+
+Website: https://www.irissoftware.com/

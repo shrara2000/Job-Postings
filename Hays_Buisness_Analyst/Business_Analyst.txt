@@ -1,0 +1,75 @@
+Role: BUSINESS ANALYST (Specialist)
+
+Start Date: ASAP
+
+Duration: 2 years 
+
+Location: 450 1st Street SW, Calgary Alberta
+
+Work Arrangement: Full-Time Onsite ( 2-3 Days/Week)
+
+
+
+
+
+Description:
+
+The Safety Data Analyst in the Process Safety & Services team assist the organization in leveraging data to drive informed decisions that enhance workplace safety and risk management. They are responsible for collecting, analyzing, and interpreting large datasets from various sources, evaluating technical requirements to build powerapp solutions as well as propose and execute on streamlining efforts in the data collection space. Their goal is to identify trends, patterns, technical opportunities and insights that can inform the development and refinement of safety policies, procedures, and training programs.
+
+
+
+
+
+Day-to-day activities may include:
+
+• Project managing power app build requests
+
+• Developing solutions in the power platform space (powerapps, powerbi, power automate)
+
+• Building predictive models to anticipate potential hazards
+
+• Conducting statistical analysis on the root causes of incidents
+
+• Querying databases to track safety KPIs
+
+• Presenting findings to cross-functional stakeholders including operations, projects, STS, and senior leadership
+
+• Reporting tasks related to monthly reporting
+
+The role requires technical knowledge in data manipulation, statistical analysis, and data visualization tools such as SQL, Excel, and PowerBI. The ability to communicate complex safety-related information in a clear and concise manner is also essential.
+
+Data analysts work collaboratively with subject matter experts, safety professionals, and other data analysts to transform raw data into actionable intelligence that supports the organization's goal of providing a safe work environment for all employees.
+
+
+
+
+
+Responsibilities:
+
+• Creation of power app tools and applications
+
+• Develop and maintain the Safety Performance Ai build roadmap
+
+• Safety Reporting (internal, external, country-wide)
+
+• Management of Safety Classification and Learning model (SCL) Classifications and events
+
+• Development and maintenance of Safety Power BI Dashboards
+
+• Support optimization of data collection through market research / development of new tools
+
+• Maintenance of tools for data collection and analysis
+
+• Management and control of the EHS software platform(s) (Enablon, EHSM)
+
+• Collection, governance, and validation of all safety-related data (incidents, investigations, corrective actions, exposure, etc.)
+
+• Control and distribution of safety alerts, bulletins, and safety data communications
+
+• Trending and analysis of safety data (e.g., identification of incidents involving specific equipment, common themes over time periods)
+
+• Tracking and reporting of internal and external safety metrics
+
+• Providing analytical support and recommendations for safety performance metrics
+ 
+Website: https://www.hays.ca/home

@@ -1,0 +1,68 @@
+Key Responsibilities
+
+Lead requirement gathering sessions with business stakeholders to define clear, actionable requirements.
+Manage and document end-to-end external customer journeys (e.g., product selection to order placement).
+Break down business requirements into Epics, Features, and User Stories in Jira based on business needs and UI mockups.
+Create detailed user stories with 
+
+Clear user actions
+Acceptance Criteria
+Definition of Done (DoD)
+Supporting mockups and diagrams (where applicable)
+Develop process artifacts including
+
+Process flows
+System flows
+Swim lanes
+Integration diagrams
+Flowcharts
+Facilitate Agile ceremonies
+
+Sprint Planning
+Daily Stand-ups
+Sprint ReviewsDemos
+Retrospectives
+Backlog GroomingRefinement
+ (SAFe experience is a plus)
+Collaborate with UIUX and design teams to ensure alignment between requirements and mockups.
+
+Articulate functional and non-functional requirements clearly to Dev and QA teams.
+
+Manage stakeholder expectations and control scope creep.
+
+Conduct gap and data analysis (SQL  Power BI preferred) to support service improvements.
+
+Troubleshoot production issues by engaging appropriate stakeholders and facilitating resolution.
+
+Work with APIs and understand system integrations.
+
+Support change management initiatives.
+
+Leverage AI tools to enhance productivity in BA deliverables.
+
+Build strong relationships with stakeholders and foster a collaborative working environment.
+
+Mandatory Skills & Experience
+
+Experience with customer-facing external web applications with Buy Flow
+Example Amazon-style product selection to checkout journey
+Strong understanding of Agile Scrum framework
+Expertise in
+
+Writing high-quality user stories
+Functional & non-functional requirements
+Stakeholder management
+Conflict resolution & negotiation
+Tools
+
+Jira
+Visio (preferred)  Lucidchart  draw.io
+Experience creating detailed process and system diagrams
+
+Experience working with UIUX and Product Owners
+
+API familiarity
+
+Strong communication and facilitation skills
+ 
+Website : https://galent.com/
