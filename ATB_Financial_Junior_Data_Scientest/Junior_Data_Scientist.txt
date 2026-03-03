@@ -1,0 +1,73 @@
+Job ID
+2644
+Work Type
+Hybrid
+Business unit
+Risk Management
+Pay grade
+J - OTH
+Apply before
+13 March 2026
+Number of openings
+1
+Posting type
+Internal & External
+At ATB, we exist to make it possible for our clients, team members and communities. Our purpose is more than aspirational. It's a real commitment we live every day through our values (what we call the ATB ID).
+
+Life at ATB is about more than work. In fact, we’re consistently recognized as one of Canada's top employers thanks to our high-care, high-performance culture, upheld by the three commitments we make to our team members:
+
+Impact in action: No matter where you are in the organization, you're empowered to make an impact in the lives of our clients and communities. 
+
+Thrive together: We want you—the unique, authentic you—to feel safe and celebrated at work. We're on a continuous journey to build the most flexible and inclusive programs. 
+
+Ready for tomorrow: We want to enable your success through interesting and challenging work, performance enablement, and learning and development.
+
+About the role
+As ATB’s next Data Scientist you will design, develop and deploy Econometric, Statistical and AI/ML models to analyze data and optimize organizational decision making. Most of your time will be spent working directly with the modeling programs, making model improvements, model adjustments and model re-developments with the remaining time spent on researching industry standard modeling techniques and understanding business processes. Data Scientists at ATB are proactive, driven, adaptable problem solvers, who need to power through interesting challenge after interesting challenge to create value for our clients.
+
+ 
+
+Accountabilities
+ 
+
+You will be tasked with model development and monitoring over the IFRS9 and Stress Testing Model Suite. As part of this role you will:
+
+Design and program methods, processes, and systems to analyze unstructured, diverse “big data” sources, to generate actionable insights and solutions
+
+Collaborates with members of data teams to support investigation across a variety of topics
+
+Responsible for utilizing a variety of data science techniques - time series modeling, unsupervised learning, supervised learning, and classic regressions to make predictions on financial and customer datasets
+
+Build and expand on industry standard model monitoring practices to mitigate model risk
+
+Promote a high standard for model documentation and begin bringing outdated documentation up to this current standard
+
+Improve Model Development process and streamline end to end process of model implementation
+
+Develop credit risk and stress testing models based on industry best practices 
+
+Skills, experience & requirements
+ 
+
+Degree in Data Science, Computer Science or related field. Advanced degrees would be considered an asset
+
+Working knowledge in one or more general purpose programming languages including but not limited to: Java, C/C++, C, Objective C, Python, JavaScript, SQL, R, SAS
+
+Practical experience in data reporting and visualization
+
+Strong written and verbal communication skills
+
+Strong critical thinking & problem solving skills
+
+Proactive and have a continuous learning mindset
+
+Don’t meet all the requirements on the list?
+A resume only goes so far in expressing who you are and the unique perspectives you bring. If you believe your skills and experience align with the role—but you might not check all the boxes—we want to hear from you. We encourage candidates from all work backgrounds, equity-seeking communities and experience levels to apply. If you’re seeking a career where your drive, perspective and growth are celebrated, we want to hear from you.
+
+We’re dedicated to building a workforce reflective of those within our communities, and a culture where our team members are equipped with what they need to succeed—their way. Part of creating an inclusive workplace is recognizing our role in advancing Truth and Reconciliation. We are committed to meeting and exceeding the standards set out in the Partnership Accreditation in Indigenous Relations program created by the Canadian Council for Aboriginal Business. 
+
+What happens next?
+If you are shortlisted, you’ll hear from us after the posting closes. Check out our How We Hire page to learn more about our hiring process. If you need any accommodations throughout this process, please let us know at talentteam@atb.com
+
+Stay in touch
+We’re excited that you’re interested in a career with ATB. Follow us on LinkedIn, Facebook and Instagram to learn more about what our team is up to.
