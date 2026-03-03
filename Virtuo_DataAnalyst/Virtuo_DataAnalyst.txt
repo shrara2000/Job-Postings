@@ -1,0 +1,58 @@
+About the job
+Who Are We?
+
+As one of the most significant purchases we’ll ever make, a new home deserves to be the most exciting and enjoyable experience of our life. While owning a home should be simple and joyful, people’s best asset is often their least supported and biggest headache.
+
+
+
+Virtuo’s mission is to help new homeowners to quickly and effortlessly begin enjoying their homes, and continue enjoying them. When ownership decisions can be complex and overwhelming, Virtuo is the trusted unbiased guide to help make them faster.
+
+
+
+What You’ll Be Doing
+
+Reporting to the Head of Data, you will play a key role in transforming our data into clear, actionable insights that drive product, operational, and strategic decisions. You’ll partner with teams across Virtuo to uncover opportunities, improve performance, and help build an AI‑native data ecosystem.
+
+
+
+Collect, prepare, and structure data to ensure it is accurate, reliable, and ready for analytics and AI workflows
+Analyze data to identify trends, patterns, and opportunities that influence product and business strategy
+Create intelligent, automated insights and data products that help teams make faster, more informed decisions
+Collaborate with stakeholders to define data needs and deliver clear, actionable recommendations
+Monitor and improving data quality through proactive validation and continuous refinement
+Explore new AI capabilities, tools, and practices to elevate how we use data across the organization
+
+
+How You’ll Be Measured
+
+Clarity, accuracy, and business relevance of insights and recommendations
+Impact of your work on product, customer, and operational outcomes
+Timeliness and reliability in delivering analytical outputs
+Strength of cross‑functional communication and collaboration
+
+
+What We’re Looking For
+
+3–5 years of experience in a Data Analyst, Analytics Engineer, or hybrid analytics/engineering role
+Strong proficiency in SQL and Python, with experience building analytical workflows, pipelines, or data transformations
+Hands‑on experience working with relational and cloud data platforms (e.g., AWS, Lambda, Glue, PostgreSQL, Snowflake)
+Comfortable working with data from modern SaaS tools (e.g., Segment, HubSpot) and integrating them into analytical pipelines
+Familiarity with data modeling concepts, scalable data practices, and maintaining high‑quality, production‑ready datasets
+Bonus: Bachelor's degree in computer science, Engineering, Data Science, or a related field
+
+
+What Will Help You Succeed?
+
+A strong analytical mindset with the ability to translate data into clear stories and actionable insights
+Attention to detail and a habit of validating assumptions before drawing conclusions
+Comfort working across functional teams and navigating ambiguous problems
+Curiosity for AI‑powered workflows and how modern teams use data to move faster and smarter
+
+
+What We Offer
+
+Competitive base salary
+Paid vacation
+Comprehensive health benefits
+Work-life balance
+Energized and collaborative work environment

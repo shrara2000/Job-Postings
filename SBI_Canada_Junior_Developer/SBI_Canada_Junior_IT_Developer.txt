@@ -1,0 +1,88 @@
+About the job
+The Bank is operating in Canada since 1982 and provides retail and corporate banking services. SBIC has grown organically, spreading its retail and digital banking solutions across provinces of Ontario,Alberta and British Columbia. We are focussed on growth by further expanding our digital offerings, branch footprint and partnerships.
+
+ 
+
+IT Junior Developer 
+
+
+
+We are seeking a motivated Junior IT Developer to join our dynamic IT team at SBI Canada Bank. The ideal candidate will assist in software development, application maintenance, and process improvement while gaining hands-on experience in financial sector IT environments. You will work with technologies like ASP.NET/C#, SQL Server, CMS, and Reporting software while contributing to UAT, change management, and UI standardization.
+
+
+
+Key Responsibilities
+
+1. Application Development & Support
+
+Assist in building, testing, and maintain & deploying web/desktop applications
+Data analysis and databases development (e.g. SQL Server), including database management.
+Generate and customize reports using reporting software (Crystal Reports/SQL Server Reporting Services).
+Support website content updates on the CMS platform.
+Ensuring WCAG compliance for all developments.
+2. Testing & Deployment
+
+Set up and manage UAT (User Acceptance Testing) environments.
+Execute test cases, log defects, and assist in troubleshooting.
+Handling & Maintaining version control processes.
+3. Process Improvement
+
+Analyze the development environment and propose efficiency enhancements.
+Develop reusable utilities/functions in C# and JavaScript to automate repetitive tasks.
+Contribute to standardizing UI components (CSS/HTML) for consistency.
+
+
+4. Stakeholder Collaboration
+
+Document and assist in handling IT change requests.
+Work with cross-functional teams (QA, Business Analysts, Operations) to deliver solutions.
+Required:
+
+2 – 4 years of experience in software development 
+Familiarity with:
+ASP.NET/C# or similar OOP languages.
+SQL Server (queries, basic optimization).
+Web development (HTML, CSS, JavaScript etc.).
+Advance skill in MS Excel.
+MS Office.
+WCAG Tools.
+Understanding of software development lifecycle (SDLC).
+Understanding of various compliance requirements for website and applications.
+Problem-solving mindset and eagerness to learn financial IT systems.
+Preferred (Bonus Skills):
+
+Exposure to DNN CMS, Crystal Reports, or UAT processes.
+Knowledge of financial systems/data compliance.
+
+
+Department: Information Technology
+
+Location: SBI Canada Bank-Downtown Toronto Office -on site attendance 5 days per week
+
+Employment Type: Contract
+
+Experience Required: 2-4 years
+
+Reports To: IT Development Head
+
+Schedule:Monday to Friday
+
+
+
+This is 12 month term based role with a compensation range from 55,000 CAD to 75,000 CAD based on experience .
+
+Location: 
+
+
+
+
+
+
+
+* The above statements are intended to describe the general nature and level of work to be performed, detailed KPI’s would be provided at the time on onboarding. They are not intended to be construed, as an exhaustive list of all responsibilities, duties and skills required of personnel so classified.
+
+ 
+
+While we thank all applicants, only those under consideration for the position will be contacted. If you require accommodation during any stage of the recruitment process, please notify Human Resources at careers@sbicanada.com. We encourage applicants from diverse backgrounds that enhances our commitment towards inclusivity and diversity in the workplace. We dedicate ourselves to employment equity and providing accessible employment practices. Any information obtained during the course of recruitment will be used for employment purposes only.
+
+We thank all applicants for their interest in this opportunity. Only those selected for an interview will be contacted. SBI Canada Bank is an equal opportunity employer.
